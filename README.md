@@ -13,12 +13,11 @@
     The landing page will display the title of the app at the top and a place to insert the  image. They can chose to upload a file or enter a url. Also, on the landing page is a link to the about page that will explain everything about the app. After submitting an image the computer will show the results of happiness, sadness, surprise, anger, fear, contempt, disgust and neutral. After the image is shown there will also be questions that pop up to ask the user if they are mad or angry. After viewing the results the user can pick a different image to get results for. 
 
 ## Timeline and Responsibilities:
-    Creating the CRUD - Zarrina - by 9/19/2017
-    Coding the React.js - Natasha - by 9/22/2017
-    Combing Express and React - by 9/22/2017
-    Microsoft API key - Richard - by 9/22/17
-    CSS - Richard - by 9/22/17
-    Testing Authorization - by 9/22/17
+    Full CRUD Node Express and database - Zarrina 09/19/2017
+    React.js - Natasha, Zarrina 09/22/2017
+    Algorithmia API, calculation algorithm - Natasha 09/23/2017
+    Front-end to back-end connection, Full React CRUD - Zarrina 09/23/2017 
+    css - Natasha, Zarrina, Richard 09/26/2017
 
 ## Images
 
@@ -31,4 +30,4 @@
 ![group project 3 pic 4](https://user-images.githubusercontent.com/15146933/30602821-bb83959e-9d33-11e7-847a-7fa8650508ca.JPG)
 
 # Technologies used
-React.js, Express.js, PSQL, Microsoft Emotion API
+React.js, Node.js, Express.js, PSQL, Axios, Algorithmia API
