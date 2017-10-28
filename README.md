@@ -19,11 +19,14 @@ Front-end to back-end connection, Full React CRUD - Zarrina 09/23/2017
 CSS - Natasha, Zarrina, Richard 09/26/2017
 CSS - Kitty Pelerin, 09/30/2017
 
-## Images
+## Project initial wireframes 
+<div>
+<img src='https://image.ibb.co/dafUFm/wireframes.jpg' width='350px' display='inline-block' margin='20px' />
+<img src='https://image.ibb.co/eOqFMR/obj.jpg' width='350px' display='inline-block' margin='20px'/>
+ </div>
 
-<img src='https://image.ibb.co/eOqFMR/obj.jpg' width='300px'/>
-<img src='https://image.ibb.co/dafUFm/wireframes.jpg' width='300px'/>
-<img src='https://image.ibb.co/isG3am/task.jpg' width='300px'/>
+## Time/ priority chart
+<img src='https://image.ibb.co/isG3am/task.jpg' width='350px'/>
 
 # Technologies used
 React.js, Node.js, Express.js, PSQL, Axios, Algorithmia API, CSS, HTML
